@@ -1,3 +1,12 @@
+---
+layout: single
+title: "첫포스팅"
+categories: coding
+tag: git
+toc: true
+---
+
+
 ## Git 최초 설정
 
 ### Git 전역으로 사용자 이름과 이메일 주소를 설정
