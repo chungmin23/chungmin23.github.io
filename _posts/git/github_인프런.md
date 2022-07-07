@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "첫포스팅"
-categories: coding
+title: "git"
+categories: git
 tag: git
 toc: true
 ---
